@@ -36,7 +36,7 @@ Step 1: Clone the Repository
 
 Download the project to your local system.
 
-git clone https://github.com/your-username/smart-attendance-system-opencv.git
+git clone https://github.com/SudikshaT/Face-Detection-Attendance-Python
 
 Step 2: Navigate to the Project Folder
 cd smart-attendance-system-opencv
