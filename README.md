@@ -28,41 +28,6 @@ OpenPyXL
 
 Datetime Module
 
-📌 How to Create the File
-
-Right-click in your project folder
-
-Click New → Text Document
-
-Rename it to:
-
-requirements.txt
-
-
-Paste the library names above
-
-Save
-
-✅ How Others Will Install
-
-They will run:
-
-pip install -r requirements.txt
-
-
-Your project is now fully GitHub-ready 🚀
-If you want, I can also help you write:
-✔ Short LinkedIn project description
-✔ Interview explanation for this project
-✔ Portfolio website content
-
-can you give me steps...so when other people use my code they konw how to use it
-
-Perfect thinking, Sudiksha 👍
-These are the User Instructions / How to Use steps you should include so anyone using your GitHub project can easily run it.
-
-You can paste this directly into your README.
-
 📖 How to Use the Smart Attendance System
 
 Follow the steps below to run the project successfully.
